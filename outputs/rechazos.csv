@@ -1,0 +1,9 @@
+fila,codigo,motivo
+6,PAC01,código con formato inválido
+17,PAC-051,edad faltante
+23,PAC-052,presion_sistolica fuera de rango
+34,PAC-012,código duplicado
+40,PAC-053,imc no numérico
+46,PAC-054,grupo inválido
+52,PAC-055,edad fuera de rango
+58,PAC-056,presion_sistolica faltante
